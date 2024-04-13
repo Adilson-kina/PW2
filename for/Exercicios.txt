@@ -1,0 +1,4 @@
+1) Faça um algoritmo em JavaScript com laços de repetição "for" de 1 a 100, separe números pares dos impares.
+2) Faça um algoritmo em JavaScript com um vetor de 10 posições numericas, separe os valores do vetor
+pares dos impares e some pares com pares, e impares com impares, compare para ver qual que é o maior.
+3) Apresente os divisores do número 120
