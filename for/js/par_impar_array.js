@@ -42,6 +42,9 @@ for (let i = 0; i < impar.length; i++) {
 if (parSoma > imparSoma) {
   console.log(`A soma dos pares é maior, com ${parSoma}, e os impares com ${imparSoma}`)
 }
-else {
+else if(parSoma < imparSoma){
   console.log(`A soma dos impares é maior, com ${imparSoma}, e os pares com ${parSoma}`)
+}
+else{
+  console.log(`A soma é equivalente com ${parSoma}`)
 }
